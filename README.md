@@ -19,7 +19,9 @@ Some useful links
 ------------
 
 
+[Public APIs](https://public-apis.xyz/)
 
+[Elevator Saga](https://play.elevatorsaga.com/)
 
 
 

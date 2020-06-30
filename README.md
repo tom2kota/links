@@ -13,6 +13,8 @@ Some useful links
 
 [React Navigation](https://reactnavigation.org/docs/stack-navigator/)
 
+[React Naavigation 4](https://reactnavigation.org/docs/4.x/headers/)
+
 ------------
 
 [State of JavaScript](https://www.jetbrains.com/lp/devecosystem-2019/javascript/)

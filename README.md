@@ -4,6 +4,12 @@ Some useful links
 [DEMO](https://tom2kota.github.io/links/)
 
 
+------------
+## React Native
+
+[React Native Check TextInput is Empty or Not](https://aboutreact.com/react-native-check-textinput-is-empty-or-not/)
+
+
 
 ------------
 

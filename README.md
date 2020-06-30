@@ -9,7 +9,9 @@ Some useful links
 
 [React Native Check TextInput is Empty or Not](https://aboutreact.com/react-native-check-textinput-is-empty-or-not/)
 
+[React Native School](https://www.reactnativeschool.com/complex-navigation-example-with-react-navigation)
 
+[React Navigation](https://reactnavigation.org/docs/stack-navigator/)
 
 ------------
 
